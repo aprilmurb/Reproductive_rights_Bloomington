@@ -12,10 +12,10 @@ The seven documents from this folklore collection comprise a small sample of the
 At the request of the Archives, the personally identifying information of the student researcher and of interviewees have been redacted from these documents. Please contact the [IU Archives](https://libraries.indiana.edu/university-archives) for more information about this collection.
 
 {% include feature/pdf.html objectid="Abortion_method_interview_1968_a" width="50" %}
-{% include feature/pdf.html objectid="Abortion_method_interview_1968_b" width="25" %}
-{% include feature/pdf.html objectid="Abortion_method_interview_1968_c" width="25" %}
-{% include feature/pdf.html objectid="Abortion_method_interview_1968_d" width="25" %}
-{% include feature/pdf.html objectid="Abortion_method_interview_1968_e" width="25" %}
-{% include feature/pdf.html objectid="Abortion_method_interview_1968_f" width="25" %}
-{% include feature/pdf.html objectid="Abortion_method_interview_1968_g" width="25" %}
+{% include feature/pdf.html objectid="Abortion_method_interview_1968_b" width="50" %}
+{% include feature/pdf.html objectid="Abortion_method_interview_1968_c" width="50" %}
+{% include feature/pdf.html objectid="Abortion_method_interview_1968_d" width="50" %}
+{% include feature/pdf.html objectid="Abortion_method_interview_1968_e" width="50" %}
+{% include feature/pdf.html objectid="Abortion_method_interview_1968_f" width="50" %}
+{% include feature/pdf.html objectid="Abortion_method_interview_1968_g" width="50" %}
 
