@@ -17,6 +17,8 @@ April Urban, the organizer of the collection, has a PhD in English literature, t
 
 Thank you to the [Indiana University Archives](https://libraries.indiana.edu/university-archives) for preserving and making accessible these materials, and especially for permitting me to share them. A very special thanks to IU archivist Katherine Morrison for helping me to find relevant materials; this collection would not have been possible without her enthusiastic, knowledgeable assistance.
 
+The banner image used on this website was found in the online article ["Inside the 1970s Abortion Underground"](https://www.politico.com/news/magazine/2022/05/06/jane-abortion-network-chicago-00030433)(*Politico*). Copyright for the image belongs to AP Photo.
+
 
 
 ## About the Platform
