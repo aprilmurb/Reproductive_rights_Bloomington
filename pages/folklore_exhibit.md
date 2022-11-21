@@ -1,5 +1,5 @@
 ---
 title: Folkloric Stories of Self-Induced Abortion Methods
-layout: about
+layout: page
 permalink: /folklore_exhibit.html
 ---
