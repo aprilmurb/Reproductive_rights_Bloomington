@@ -9,6 +9,8 @@ This collection includes selected documents from the [IU Archives' Indiana Unive
 
 The seven documents from this folklore collection comprise a small sample of the "Some Methods of Abortion in Oral Tradition" research paper, but have been selected to repesent the variety of reported methods in this collection. The research paper includes dozens of interviews that have not yet been digitized. By digitizing and sharing a selection of materials from this collection, it is hoped that interested researchers will find these materials useful and perhaps seek out more interviews from "Some Methods of Abortion in Oral Tradition" at the IU Archives.
 
+At the request of the Archives, the personally identifying information of the student researcher and of interviewees have been redacted from these documents. Please contact the [IU Archives](https://libraries.indiana.edu/university-archives) for more information about this collection.
+
 {% include feature/pdf.html objectid="Abortion_method_interview_1968_a" width="25" %}
 {% include feature/pdf.html objectid="Abortion_method_interview_1968_b" width="25" %}
 {% include feature/pdf.html objectid="Abortion_method_interview_1968_c" width="25" %}
@@ -17,4 +19,3 @@ The seven documents from this folklore collection comprise a small sample of the
 {% include feature/pdf.html objectid="Abortion_method_interview_1968_f" width="25" %}
 {% include feature/pdf.html objectid="Abortion_method_interview_1968_g" width="25" %}
 
-At the request of the Archives, the personally identifying information of the student researcher and of interviewees have been redacted from these documents. Please contact the [IU Archives](https://libraries.indiana.edu/university-archives) for more information about this collection.
